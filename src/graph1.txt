@@ -1,0 +1,8 @@
+
+undirected
+8
+12
+a e  a f a g
+b e b f b h
+c e c g c h
+d f d g d h
